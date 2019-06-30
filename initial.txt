@@ -1,5 +1,6 @@
 Teste inicial
 Teste Rebase
+CASE
 Mais um teste só pq sim
 Alteração Concreta
 Vai dar pau
